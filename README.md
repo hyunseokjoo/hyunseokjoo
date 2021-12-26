@@ -1,7 +1,7 @@
 ### Hi there! :wave: I`m Eddie
 ------------------------------------------------------------
 I love code, ML, and anything I am interested in.
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joohyunseok0313@gmail.com)](mailto:joohyunseok0313@gmail.com)
 
 ### 💻 Technologies I Love
 ------------------------------------------------------------
@@ -34,6 +34,4 @@ I love code, ML, and anything I am interested in.
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=hyunseokjoo&count_private=true&show_icons=true" />  <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseokjoo" />  </a>
 	
 	
-### Contacts
------------------------------------------------------------- 	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joohyunseok0313@gmail.com)](mailto:joohyunseok0313@gmail.com)
+
