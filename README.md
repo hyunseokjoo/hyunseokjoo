@@ -1,6 +1,6 @@
 ### Hi there! :wave: I`m Eddie
 ------------------------------------------------------------
-I love code, ML, and anything I am interested in.
+I love code, ML, and anything I am interested in.    
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joohyunseok0313@gmail.com)](mailto:joohyunseok0313@gmail.com)
 
 ### 💻 Technologies I Love
