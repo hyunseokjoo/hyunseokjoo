@@ -24,8 +24,8 @@ I love code, ML, and anything I am interested in.
 ------------------------------------------------------------ 
 - 🏢 I’m currently working at (주)에이씨케이
 - 🌱 I’m currently learning Image Processing, Machine Learning
-- ⚙️ I love to create Computer Vision
-- 💬 I love to taliking about solution business and coding review
+- ⚙️ I love to study Computer Vision and AI
+- 💬 I love to taliking about solution business and code review
 - :mountain_bicyclist: I am tracking beginner
 
 
