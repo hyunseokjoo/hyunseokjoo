@@ -9,7 +9,7 @@ I love code, ML, and anything I am interested in.
 - Deep Learning
 - Image Processing
 - Data Science
-- SLAM
+- Web Programming
 
 ### :smiley: Programming Languages
 ------------------------------------------------------------
@@ -23,7 +23,7 @@ I love code, ML, and anything I am interested in.
 ### Bio
 ------------------------------------------------------------ 
 - 🏢 I’m currently working at (주)에이씨케이
-- 🌱 I’m currently learning Image Processing, Machine Learning
+- 🌱 I’m currently learning Image Processing, Machine Learning, and Web Programming
 - ⚙️ I love to study Computer Vision and AI
 - 💬 I love to taliking about solution business and code review
 - :mountain_bicyclist: I am tracking beginner
