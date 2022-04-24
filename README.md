@@ -22,7 +22,7 @@ I love code, ML, and anything I am interested in.
 
 ### Bio
 ------------------------------------------------------------ 
-- 🏢 I’m currently working at (주)에이씨케이
+- 🏢 I’m currently working at Planit HealthCare
 - 🌱 I’m currently learning Image Processing, Machine Learning, and Web Programming
 - ⚙️ I love to study Computer Vision and AI
 - 💬 I love to taliking about solution business and code review
