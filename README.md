@@ -1,7 +1,8 @@
 ### Hi there! :wave: I`m Eddie
 ------------------------------------------------------------
 I love code and anything I am interested in.    
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joohyunseok0313@gmail.com)](mailto:joohyunseok0313@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joohyunseok0313@gmail.com)](mailto:joohyunseok0313@gmail.com) [![Storyblok](https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white&link=https://magpienote.tistory.com/)](https://magpienote.tistory.com/)
+
 
 ### 💻 Technologies I Love
 ------------------------------------------------------------
