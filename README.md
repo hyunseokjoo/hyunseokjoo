@@ -22,8 +22,8 @@ I love code and anything I am interested in.
 ### Bio
 ------------------------------------------------------------ 
 - 🏢 I’m currently working at Cloocus
-- 🌱 I’m currently learning Image Processing, Machine Learning, and Web Programming
-- ⚙️ I love to study Computer Vision and AI
+- 🌱 I’m currently learning Batch Processing, Stream Processing, and Web Programming
+- ⚙️ I love to study Data Engineering 
 - 💬 I love to taliking about solution business and code review
 - :mountain_bicyclist: I am tracking beginner
 
